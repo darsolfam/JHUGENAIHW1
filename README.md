@@ -20,4 +20,4 @@ eb1f4da Initial repository setup: add README, assistant_draft, and final_version
 
 ## Walkthrough video
 
-<!-- Add unlisted YouTube link here after recording -->
+https://youtu.be/iTsSqYniEvU
